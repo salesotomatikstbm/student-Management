@@ -2,7 +2,7 @@ import pandas as pd
 import tkinter as tk
 from tkinter import ttk, messagebox
 
-# Sample Songs Data
+# Sample Songs Data   otomatiks
 songs_data = {
     "song_id": [1, 2, 3, 4, 5],
     "title": ["Song A", "Song B", "Song C", "Song D", "Song E"],
